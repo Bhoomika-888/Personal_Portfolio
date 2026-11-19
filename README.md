@@ -104,12 +104,17 @@ Portfolio/
 ├── index.html                  # Semantic HTML5 single-page application structure
 ├── styles.css                  # Custom design system (Dark Navy/Cyan, responsive CSS Grid)
 ├── main.js                     # Vanilla JS: Theme toggle, scrollspy, modal, drawer, toast
+├── 404.html                    # Custom branded 404 error page for Vercel
+├── vercel.json                 # Vercel deployment configuration, headers & rewrites
+├── package.json                # Project manifest and standard build scripts for Vercel
+├── .gitignore                  # Git ignore rules for clean deployment
 ├── README.md                   # Repository documentation & setup guide
 ├── .vscode/
 │   └── launch.json             # VS Code browser debug configuration
 └── assets/
     ├── profile.jpg             # High-resolution student portrait photograph
     ├── Bhoomika_Resume.pdf     # Official curriculum vitae / resume PDF
+    ├── resume.pdf              # Lowercase alias for Linux/Vercel URL compatibility
     ├── favicon.svg             # Custom monogram SVG favicon
     └── smart-object-analyzer.svg # Computer vision architecture & UI mockup illustration
 ```

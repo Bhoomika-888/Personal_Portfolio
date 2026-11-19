@@ -1,0 +1,21 @@
+{
+  "name": "bhoomika-developer-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal Developer Portfolio for Bhoomika - MCA Student at Poornaprajna Institute of Management",
+  "scripts": {
+    "build": "echo \"Static build ready for Vercel deployment\"",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "mca",
+    "developer",
+    "bhoomika",
+    "python",
+    "opencv",
+    "yolov5"
+  ],
+  "author": "Bhoomika",
+  "license": "MIT"
+}
